@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Orion Package Manager
+Comment=Debian Paket Kurucusu
+Exec=python3 /usr/share/orion-package-installer/orion.py %f
+Icon=orionicon.png
+Terminal=false
+Type=Application
+Categories=System;Settings;
+MimeType=application/vnd.debian.binary-package;
+Keywords=package;install;deb;kur;paket;
