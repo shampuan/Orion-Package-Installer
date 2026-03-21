@@ -1,5 +1,5 @@
-# Orion-Package-Manager
-Deb Package Manager for Debian Based Systems
+# Orion-Package-Installer
+Deb Package Installer for Debian Based Systems
 
 
 The apptlication is beta yet. Please be carefull.
