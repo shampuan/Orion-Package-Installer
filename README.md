@@ -4,6 +4,8 @@ Deb Package Manager for Debian Based Systems
 
 The apptlication is beta yet. Please be carefull.
 
+It has Turkish language yet. But, multilingual support will be added when the stable version is released.
+
 <img width="610" height="534" alt="Ekran görüntüsü_2026-03-21_22-07-28" src="https://github.com/user-attachments/assets/042fae75-5a41-49ad-bdab-225fa1577c0d" />
 
 <img width="610" height="584" alt="Ekran görüntüsü_2026-03-21_22-58-06" src="https://github.com/user-attachments/assets/19a0d186-ded7-4e06-a089-d4f9cc123bc8" />
