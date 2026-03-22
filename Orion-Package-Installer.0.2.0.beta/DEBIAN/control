@@ -1,0 +1,9 @@
+Package: orion-package-manager
+Version: 0.2.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3, python3-pyqt6, python3-apt, libnotify-bin
+Maintainer: A. Serhat KILICOGLU <https://www.github.com/shampuan>
+Description: Debian tabanli sistemler icin gelismis paket kurucu.
+ Gdebi alternatifi, modern ve hizli bir paket yoneticisidir.

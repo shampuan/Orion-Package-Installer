@@ -1,0 +1,42 @@
+
+
+
+
+Kullanıcılardan gelecek geri bildirimler çok önemli.
+
+*.tar.gz dosyalarını da kurdurma özelliği eklenecek.
+
+Flatpak ve Snapd özelliği de getirip gerimeyeceğimize bakalım. 
+
+Dinamik dil desteği getireceğiz. Bu en zor olanı zaten hapı yuttuk Fatihe yaptırırız belkim. 
+
+Duruma bakıcaz. 
+
+
+---
+
+python3:any hatası giderildi.
+
+İkon tarama-bulma-arayüze basma işlevi iyileştirildi.
+
+Paket bağımlılıkları taranırken bulunamayanlar kırmızı ile işaretleniyor ve yanında "depoda bulunamadı" uyarısı oluşuyor. 
+
+Pencere genişletme/daraltma işlevi getirildi. (Analiz et butonu detay göster/gizle yapıldı)
+
+Kullanıcı kurulum esnasında pencereyi kapatırsa, arkaplanda kuruluma devam etme işlevi getirildi.
+
+Gerçek zamanlı durum kontrolü apt.Cache() çağrısı eklendi. Bu, her analiz başında sistemdeki paket durumunu %100 durumda yansıtmayı sağlar. (Program açıkken başka bir yerden değişim yaparsanız programın anında haberi olur). 
+
+Her yeni analiz öncesinde geçici çalışma dizinlerinin otomatik olarak temizlenmesini sağladım. 
+
+Boşluk içeren dosya yollarında hata oluşuyordu, tırnak işareti koruması eklenerek fixlendi. 
+
+X11 zorlaması ve interaktif olmayan kurulum ortam değişkenleri optimize edildi. 
+
+
+
+
+
+
+
+
