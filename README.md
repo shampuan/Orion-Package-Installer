@@ -6,9 +6,6 @@ The apptlication is beta yet. Please be carefull.
 
 It has Turkish language yet. But, multilingual support will be added when the stable version is released.
 
-<img width="610" height="534" alt="Ekran görüntüsü_2026-03-21_22-07-28" src="https://github.com/user-attachments/assets/042fae75-5a41-49ad-bdab-225fa1577c0d" />
+<img width="460" height="284" alt="Ekran görüntüsü_2026-03-23_01-33-56" src="https://github.com/user-attachments/assets/5d55348b-c337-40c0-8c35-c500411bb8f3" />
 
-<img width="610" height="584" alt="Ekran görüntüsü_2026-03-21_22-58-06" src="https://github.com/user-attachments/assets/19a0d186-ded7-4e06-a089-d4f9cc123bc8" />
-
-<img width="610" height="584" alt="Ekran görüntüsü_2026-03-21_22-58-32" src="https://github.com/user-attachments/assets/3a2e53d5-f173-48fc-a85f-4bc8857d0b11" />
-
+<img width="460" height="584" alt="Ekran görüntüsü_2026-03-23_01-34-03" src="https://github.com/user-attachments/assets/4fc00cff-5e95-4945-9787-4240c675bd7a" />
