@@ -1,6 +1,8 @@
 # Orion-Package-Installer
 Deb Package Installer for Debian Based Systems
 
+<img width="128" height="128" alt="orioniconxy" src="https://github.com/user-attachments/assets/222fb0ac-ba4c-433d-abb9-31e1288330f2" />
+
 
 The apptlication is beta yet. Please be carefull.
 
